@@ -30,7 +30,6 @@ I refactored the original code to implement industry-standard practices:
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yazan-abushreefih-260a16338)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-abushreefih-260a16338)
 ---
 *This project serves as a personal milestone, documenting my growth in Python and software development principles.*
