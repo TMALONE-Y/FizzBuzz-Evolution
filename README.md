@@ -15,7 +15,7 @@ The project is a custom version of the classic **FizzBuzz**:
 ## 📸 Original Version (Oct 2025)
 Below is a screenshot of how I first solved this challenge on the Coddy platform:
 
-![First FizzBuzz](./First_FizzBuzz.png)
+![First FizzBuzz](./First%20FizzBuzz.png)
 
 ## 🛠 Improvements in the New Version
 I refactored the original code to implement industry-standard practices:
